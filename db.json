@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Always",
+      "email": "always@gmail.com",
+      "mobile": "08-500678",
+      "address": "Zahle",
+      "services": "Fast Food"
+    },
+    {
+      "id": 2,
+      "name": "Hollywood",
+      "email": "hollywood@gmail.com",
+      "mobile": "08-098765",
+      "address": "Zahle",
+      "services": "All types of Food"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
