@@ -17,6 +17,15 @@
       "services": "All types of Food"
     }
   ],
+  "signup": [
+    {
+      "name": "Jana Fayad",
+      "email": "jana@gmail.com",
+      "movile": "",
+      "password": "janajana",
+      "id": 1
+    }
+  ],
   "comments": [],
   "profile": {
     "name": "typicode"
